@@ -1,6 +1,6 @@
 ---
 version: 0.1.0
-alias: Sample
+alias: Sample5934
 discoveryPort:
   name: Validation57
   shortDescription: Weather Forecast of the next 7 days for ahmedabad city
